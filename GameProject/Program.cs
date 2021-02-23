@@ -34,6 +34,7 @@ namespace GameProject
                 Producer = "KK Gaming"
             }));
 
+
             //Oyuna gelen kampanya
             CampaignManager campaign = new CampaignManager();
             campaign.Add(new Entities.Game
